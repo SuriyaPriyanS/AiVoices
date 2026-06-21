@@ -46,6 +46,7 @@ Kindly follow the following Instructions to run the project in your system and i
 ```
 
 ### MULTI-CURRENCY ICO DAPP
+<img width="2720" height="1880" alt="voiceads_ai_system_architecture" src="https://github.com/user-attachments/assets/a7163eda-b6a5-4d29-83ab-0aec0b341c37" />
 
 
 ```
